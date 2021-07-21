@@ -7,7 +7,7 @@
     let question =
         "int g = 3;\n" +
         "while (_____) {\n" +
-        "\tSystem.out.println(g);" +
+        "\tSystem.out.println(g);\n" +
         "\tg++;\n" +
         "}"
 

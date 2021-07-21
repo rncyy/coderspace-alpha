@@ -67,8 +67,8 @@
     ];
     let questionCardProps = {
         lessonTitle: "Assignment Operator and Logical Operator",
-        questionTitle: "Assign the difference between num1 and num2 to num3 using an assignment operator",
-        correctAnswer: "-=",
+        questionTitle: "Add the difference between num1 and num2 to num3 using an appropriate operator",
+        correctAnswer: "-",
 		
     }
 </script>
@@ -132,37 +132,43 @@ References
 		</h3>
         <table class="table work-sans light-text adjust-text">
 			<thead>
-				<tr>
-					<th scope="col">Operator</th>
-					<th scope="col">Example</th>
-					<th scope="col">Equivalent to</th>
-				</tr>
+			<tr>
+				<th scope="col">Operator</th>
+				<th scope="col">Example</th>
+				<th scope="col">Equivalent to</th>
+			</tr>
 			</thead>
 			<tbody>
-				<tr>
-					<td>=</td>
-					<td>+=</td>
-					<td>-=</td>
-					<td>*=</td>
-					<td>/=</td>
-					<td>%=</td>
-				</tr>
-				<tr>
-					<td>a = b;</td>
-					<td>a += b;<td>
-					<td>a -= b;</td>
-					<td>a *= b;</td>
-					<td>a /= b;</td>
-					<td>a %= b;</td>
-				</tr>
-				<tr>
-					<td>a = b;</td>
-					<td>a = a + b;</td>
-					<td>a = a - b;</td>
-					<td>a = a * b;</td>
-					<td>a = a / b;</td>
-					<td>a = a % b;</td>
-				</tr>
+			<tr>
+				<td scope="row">=</td>
+				<td scope="row">a = b;</td>
+				<td scope="row">a = b;</td>
+			</tr>
+			<tr>
+				<td scope="row">+=</td>
+				<td scope="row">a += b;</td>
+				<td scope="row">a = a + b;</td>
+			</tr>
+			<tr>
+				<td scope="row">-=</td>
+				<td scope="row">a -= b;</td>
+				<td scope="row">a = a - b;</td>
+			</tr>
+			<tr>
+				<td scope="row">*=</td>
+				<td scope="row">a *= b;</td>
+				<td scope="row">a = a * b;</td>
+			</tr>
+			<tr>
+				<td scope="row">/=</td>
+				<td scope="row">a /= b;</td>
+				<td scope="row">a = a / b;</td>
+			</tr>
+			<tr>
+				<td scope="row">%=</td>
+				<td scope="row">a %= b;</td>
+				<td scope="row">a = a % b;</td>
+			</tr>
 			</tbody>
 		</table>
 		<h3 class="questrial">
@@ -238,7 +244,7 @@ References
 int num1 = 30;
 int num2 = 40;
 int num3 = 0;
-num3 = num1 _____ num2;
+num3 += num1 _____ num2;
             </pre>
         </QuestionCard>
         

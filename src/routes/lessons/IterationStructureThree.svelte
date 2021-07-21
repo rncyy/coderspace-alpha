@@ -6,7 +6,7 @@
     import NavigationButton from "../../components/NavigationButton.svelte";
     let subtext = "Let's learn how the For loop works: \"For Loop\"";
     let question =
-        "for (int o = 1; o < 5; o++) {\n" +
+        "for (int o = 1; o <= 5; o++) {\n" +
         "\tSystem.out.println(_____);\n" +
         "}";
     let code = [
@@ -33,7 +33,7 @@
     ];
     let questionCardProps = {
         lessonTitle: "For Loop in Java",
-        questionTitle: "Print the out the value of numbers 1 - 5",
+        questionTitle: "Print the out the numbers: 1 - 5",
         correctAnswer: "o",
     }
 </script>
