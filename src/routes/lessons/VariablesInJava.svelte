@@ -31,7 +31,12 @@
         "String websiteName = \"CoderSpace Alpha\";\n" +
         "boolean isUpdated = true;\n" +
         "double moneyLeft = 10.25;\n" +
-        "System.out.println(_____);"
+        "System.out.println(_____);",
+
+        "double grade = 92.23;\n" +
+        "System.out.println(grade);\n// Outputs 92.23\n" +
+        "grade = 95.58;\n" +
+        "System.out.println(grade);\n// Outputs 95.58"
     ];
     let questionCardProps = {
         lessonTitle: "Variables in Java",
@@ -188,6 +193,18 @@
         <pre class="adjust-text">
             <code class="language-java">
                 {code[3]}
+            </code>
+        </pre>
+        <h3 class="questrial">Changing the value of a variable</h3>
+        <p class="work-sans light-text adjust-text">
+            To change the value of a variable, simply refer to the variable name and assign the new value.
+        </p>
+        <p class="work-sans light-text adjust-text">
+            Look at the example code below to further enhance your understanding:
+        </p>
+        <pre class="adjust-text">
+            <code class="language-java">
+                {code[5]}
             </code>
         </pre>
         <h2 class="questrial">Quick Test</h2>

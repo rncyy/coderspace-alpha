@@ -21,7 +21,7 @@
         <div class="col-4 mb-2">
             <LessonCard lessonName="Hello World with Java" lessonLink="hello-world" imageName="cmd">
                 <p class="desc">
-                    Let us start our Java Journey by writing the famous first program: "Hello World" in an online compiler called <a href="https://www.onlinegdb.com/online_java_compiler" target="_blank">OnlineGDB</a>!
+                    Let us start our Java Journey by writing the famous first program: "Hello World" on your chosen environment!
                 </p>
             </LessonCard>
         </div>
