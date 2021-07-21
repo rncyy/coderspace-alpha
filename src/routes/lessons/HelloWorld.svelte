@@ -83,7 +83,7 @@ References
 <LessonTemplate lessonName="Hello World in Java" imageName="cmd" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">What is Java?</h2>
-        <img src="https://www.thoughtco.com/thmb/1XNPA2mDZJCuwBv8bgd5t8FCEHQ=/2310x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-java-5b4bda1cc9e77c0037171617.jpg" width="400" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://www.thoughtco.com/thmb/1XNPA2mDZJCuwBv8bgd5t8FCEHQ=/2310x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-java-5b4bda1cc9e77c0037171617.jpg" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             Java is an Object-Oriented Programming language developed by Sun Microsystems in 1995. A lot of applications and softwares is dependent on Java, and more of these applications are created everyday! Java is fast, secure, and reliable which makes it one of the programming languages preferred by many companies to build their projects on.
         </p>

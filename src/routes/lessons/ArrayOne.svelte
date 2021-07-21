@@ -51,7 +51,7 @@
 <LessonTemplate lessonName="Arrays (Part 1)" imageName="array-1" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">Arrays in Java (Part 1)</h2>
-        <img src="https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/02/Arrays-in-java-df.jpg" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/02/Arrays-in-java-df.jpg" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             Arrays are used to store multiple data that are otherwise illogical to declare with different names.
         </p>

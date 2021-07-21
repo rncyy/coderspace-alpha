@@ -87,7 +87,7 @@ References
 <LessonTemplate lessonName="Do While Loop in Java" imageName="cmd" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">What is Do While Loop</h2>
-        <img src="https://static.javatpoint.com/images/java-loops.png" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://static.javatpoint.com/images/java-loops.png" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             The do while loop is also similar in while loop, but it has a difference in the while loop. The Java do while loop is a control flow statement that runs a portion of a program at least once before continuing to run it based on a boolean condition.
         </p>

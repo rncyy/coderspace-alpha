@@ -285,7 +285,7 @@ References
 <LessonTemplate lessonName="Operations 1" imageName="plus" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">Arithmetic and Comparison Operators</h2>
-        <img src="https://python-tricks.com/wp-content/uploads/2020/08/operators-in-java.png" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://python-tricks.com/wp-content/uploads/2020/08/operators-in-java.png" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <h3 class="questrial">Arithmetic Operators</h3>
 		<p class="work-sans light-text adjust-text">
             Variables and values are operated on with the use of operators. These operators are <strong>mathematical operators</strong> that can be used to execute various simple and advanced arithmetic operations on the operands, which are <strong>primitive data types</strong>. These operators are made up of various unary and binary operators that can be used on one or two operands.

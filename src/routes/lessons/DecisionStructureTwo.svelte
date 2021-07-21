@@ -165,7 +165,7 @@ References
 <LessonTemplate lessonName="Decision Structure 2" imageName="decision" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">Nested if and switch statement</h2>
-        <img src="http://tech.queryhome.com/?qa=blob&qa_blobid=3523000838666960937" width="400" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="http://tech.queryhome.com/?qa=blob&qa_blobid=3523000838666960937" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             Decision making in programming is similar to decision making in real life. In programming also we face some situations where we want a certain block of code to be executed when some condition is fulfilled.
         </p>

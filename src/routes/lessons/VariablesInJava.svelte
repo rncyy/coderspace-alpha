@@ -64,7 +64,7 @@
 <LessonTemplate lessonName="Variables in Java" imageName="variable" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">What are variables?</h2>
-        <img src="https://i0.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/02/types-of-variables-in-java.jpg?w=802&ssl=1" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://i0.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/02/types-of-variables-in-java.jpg?w=802&ssl=1" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             Variables are storage of data inside Java, and almost to all programming languages. Being able to store data to use in your program is important to ensure that the experience of the users are dependent on what they enter. Being able to store data is also useful for computations and methods that is used in your program.
         </p>

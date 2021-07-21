@@ -87,7 +87,7 @@ References
 <LessonTemplate lessonName="While Loop in Java" imageName="cmd" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">What is While Loop</h2>
-        <img src="https://static.javatpoint.com/images/java-loops.png" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://static.javatpoint.com/images/java-loops.png" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             Loops are used to iterate or repeat the block of the code. If you want to code something, like want to show message 50 times you can use the loop and that is that is the purpose of it.
         </p>

@@ -117,7 +117,7 @@ References
 <LessonTemplate lessonName="Operators 2" imageName="equals" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">Asignment and Logical Operators</h2>
-        <img src="https://python-tricks.com/wp-content/uploads/2020/08/operators-in-java.png" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://python-tricks.com/wp-content/uploads/2020/08/operators-in-java.png" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             The symbols that execute operations on the variables and values are known as operators.
         </p>

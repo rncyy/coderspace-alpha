@@ -82,7 +82,7 @@ References
 <LessonTemplate lessonName="For Loop in Java" imageName="cmd" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">What is For Loop</h2>
-        <img src="https://static.javatpoint.com/images/java-loops.png" width="400" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://static.javatpoint.com/images/java-loops.png" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             The java for loop command is used to repeat a block of code a set number of times.
         </p>

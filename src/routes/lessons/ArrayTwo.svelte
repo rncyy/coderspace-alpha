@@ -58,7 +58,7 @@
 <LessonTemplate lessonName="Arrays (Part 2)" imageName="array-2" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">Arrays in Java (Part 2)</h2>
-        <img src="https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/02/Arrays-in-java-df.jpg" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/02/Arrays-in-java-df.jpg" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <h3 class="questrial"><code>length</code> attibute</h3>
         <p class="work-sans light-text adjust-text">
             Knowing the number of elements inside your array is particularly useful in looping over your array to perform operations on every element of the array. This can be achieved by the <code>.length</code> attribute of arrays.

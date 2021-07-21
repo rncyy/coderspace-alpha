@@ -99,7 +99,7 @@ References
 <LessonTemplate lessonName="Decision Structure 1" imageName="decision" subtext={subtext}>
     <div class="content">
         <h2 class="questrial">if and if else statement in Java</h2>
-        <img src="http://3.bp.blogspot.com/-fK4B2f5N3k8/T3VdIkIuAuI/AAAAAAAAAE4/2r7ouDq6pgU/s1600/if.jpg" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+        <img src="http://3.bp.blogspot.com/-fK4B2f5N3k8/T3VdIkIuAuI/AAAAAAAAAE4/2r7ouDq6pgU/s1600/if.jpg" width="500" alt="java" class="mb-3 d-block mx-auto"/>
         <p class="work-sans light-text adjust-text">
             Control flow statements are used when we need to execute a collection of statements based on a condition. For example, you want to know which number is greater than 1, if you entered the number 2 it will print “2 is greater than 1” while if you entered the number 0 it will print “0 is not greater than 1”.
         </p>

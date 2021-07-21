@@ -111,7 +111,7 @@ References
 <Navbar/>
 <LessonTemplate lessonName="Commenting in Java" imageName="comment" subtext={subtext}>
     <div class="content">
-		<img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/04/Types-of-comments-in-Java-1200x675.jpg" width="700" alt="java" class="mb-3 d-block mx-auto"/>
+		<img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/04/Types-of-comments-in-Java-1200x675.jpg" width="500" alt="java" class="mb-3 d-block mx-auto"/>
 		<p class="work-sans light-text adjust-text">
             Any software would not be complete without comments. Comments in a program help to make it more human readable by putting the details of the code involved, and effective use of comments makes maintenance and bug discovery easier. 
         </p>
