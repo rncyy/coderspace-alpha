@@ -2,8 +2,8 @@
 <script>
     import Navbar from "../../components/Navbar.svelte";
     import ExerciseContainer from "../../components/ExerciseContainer.svelte";
-    let linkOne = "";
-    let linkTwo = "";
+    let linkOne = "https://gist.github.com/rncyy/c21083e500caa77f2d3c0b9ed7cfd8d5";
+    let linkTwo = "https://gist.github.com/rncyy/5234071ccb2cd0e64a8e8e6306927eb6";
 </script>
 
 <!-- HTML -->
@@ -34,7 +34,5 @@
 </ExerciseContainer>
 <!-- Scope Styles -->
 <style>
-    * {
-        overflow-y: auto;
-    }
+
 </style>

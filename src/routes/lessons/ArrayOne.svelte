@@ -126,7 +126,7 @@
     <div style="height: 3rem"></div>
 
     <!-- refer to the route list sent in GC -->
-    <NavigationButton isFirstLesson={false} isLastLesson={false} prevLesson="iteration-structure-3" nextLesson="arrays-2"/>
+    <NavigationButton isFirstLesson={false} isLastLesson={false} prevLesson="iteration-structure-3" nextLesson="array-2"/>
     <div style="height: 3rem"></div>
 </LessonTemplate>
 

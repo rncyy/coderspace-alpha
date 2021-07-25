@@ -2,13 +2,13 @@
 <script>
     import Navbar from "../../components/Navbar.svelte";
     import ExerciseContainer from "../../components/ExerciseContainer.svelte";
-    let linkOne = "";
-    let linkTwo = "";
+    let linkOne = "https://gist.github.com/rncyy/4dda83583640c09efd6fd757c5d69708";
+    let linkTwo = "https://gist.github.com/rncyy/7fa7ccf5a931d29aac13b11875f86791";
 </script>
 
 <!-- HTML -->
 <Navbar/>
-<ExerciseContainer lessonTitle="Iteration Structure (while...)" linkOne={linkOne} linkTwo={linkTwo} prevExercise="decision-structure-1" nextExercise="iteration-structure-2" isFirstExercise={false} isLastExercise={false}>
+<ExerciseContainer lessonTitle="Iteration Structure (while...)" linkOne={linkOne} linkTwo={linkTwo} prevExercise="decision-structure-2" nextExercise="iteration-structure-2" isFirstExercise={false} isLastExercise={false}>
     <!-- question -->
     <div slot="question">
         Follow the specifications given for this exercise

@@ -174,30 +174,31 @@ References
 		<h3 class="questrial">
 			Logical Operators
 		</h3>
-        <table class="table work-sans light-text adjust-text">
+
+		<table class="table work-sans light-text adjust-text">
 			<thead>
-				<tr>
-					<th scope="col">Operator</th>
-					<th scope="col">Example</th>
-					<th scope="col">Meaning</th>
-				</tr>
+			<tr>
+				<th scope="col">Operator</th>
+				<th scope="col">Example</th>
+				<th scope="col">Meaning</th>
+			</tr>
 			</thead>
 			<tbody>
-				<tr>
-					<td>&& (Logical AND)</td>
-					<td>|| (Logical OR)</td>
-					<td>! (Logical NOT)</td>
-				</tr>
-				<tr>
-					<td>expression1 && expression2</td>
-					<td>expression1 || expression2</td>
-					<td>!expression</td>
-				</tr>
-				<tr>
-					<td>true only if both expression1 and expression2 are true</td>
-					<td>true if either expression1 or expression2 is true</td>
-					<td>true if expression is false and vice versa</td>
-				</tr>
+			<tr>
+				<td scope="row">&& (Logical AND)</td>
+				<td scope="row">expression1 && expression2</td>
+				<td scope="row">true if either expression1 or expression2 is true</td>
+			</tr>
+			<tr>
+				<td scope="row">|| (Logical OR)</td>
+				<td scope="row">expression1 || expression2</td>
+				<td scope="row">true if either expression1 or expression2 is true</td>
+			</tr>
+			<tr>
+				<td scope="row">! (Logical NOT)</td>
+				<td scope="row">!expression</td>
+				<td scope="row">true if expression is false and vice versa</td>
+			</tr>
 			</tbody>
 		</table>
 		<p class="work-sans light-text adjust-text">

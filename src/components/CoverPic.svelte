@@ -38,7 +38,7 @@
     }
 
     .headings {
-        font-family: Work Sans, sans-serif;
+        font-family: Questrial, sans-serif;
     }
     
     .white {

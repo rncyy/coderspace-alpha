@@ -9,13 +9,13 @@
 <!-- HTML -->
 {#if isFirstLesson}
     <div class="d-flex justify-content-end">
-        <a href="/#/lessons/{nextLesson}" class="btn btn-outline-info">
+        <a href="/#/lessons/{nextLesson}" class="btn btn-outline-info questrial no-dec">
             Next Lesson
         </a>
     </div>
 {:else if isLastLesson}
     <div class="d-flex justify-content-start">
-        <a href="/#/lessons/{prevLesson}" class="btn btn-outline-info">
+        <a href="/#/lessons/{prevLesson}" class="btn btn-outline-info questrial no-dec">
             Previous Lesson
         </a>
     </div>

@@ -1,12 +1,16 @@
 <!-- Data and Script -->
 <script lang="ts">
     import Router from 'svelte-spa-router';
+
+    // pages
     import Home from './routes/Home.svelte';
     import About from './routes/About.svelte';
     import ContactUs from './routes/ContactUs.svelte';
     import Lessons from './routes/Lessons.svelte';
     import QuickTest from './routes/QuickTest.svelte';
     import Exercises from './routes/Exercises.svelte';
+
+    // lessons
     import HelloWorld from './routes/lessons/HelloWorld.svelte';
     import VariablesInJava from './routes/lessons/VariablesInJava.svelte';
     import CommentingInJava from './routes/lessons/CommentingInJava.svelte';
@@ -20,6 +24,18 @@
     import ArrayOne from './routes/lessons/ArrayOne.svelte';
     import ArrayTwo from './routes/lessons/ArrayTwo.svelte';
 
+    // exercises
+    import VariablesInJavaEx from './routes/exercises/VariablesInJava.svelte';
+    import CommentingInJavaEx from './routes/exercises/CommentingInJava.svelte';
+    import OperationsOneEx from './routes/exercises/OperationsOne.svelte';
+    import OperationsTwoEx from './routes/exercises/OperationsTwo.svelte';
+    import DecisionStructureOneEx from './routes/exercises/DecisionStructureOne.svelte';
+    import DecisionStructureTwoEx from './routes/exercises/DecisionStructureTwo.svelte';
+    import IterationStructureOneEx from './routes/exercises/IterationStructureOne.svelte';
+    import IterationStructureTwoEx from './routes/exercises/IterationStructureTwo.svelte';
+    import IterationStructureThreeEx from './routes/exercises/IterationStructureThree.svelte';
+    import ArrayOneEx from './routes/exercises/ArrayOne.svelte';
+    import ArrayTwoEx from './routes/exercises/ArrayTwo.svelte';
 </script>
 
 
@@ -46,17 +62,17 @@
     '/lessons/array-1': ArrayOne,
     '/lessons/array-2': ArrayTwo,
     // route for the exercises
-    '/exercises/variables-in-java': VariablesInJava,
-    '/exercises/commenting-in-java': CommentingInJava,
-    '/exercises/operations-1': OperationsOne,
-    '/exercises/operations-2': OperationsTwo,
-    '/exercises/decision-structure-1': DecisionStructureOne,
-    '/exercises/decision-structure-2': DecisionStructureTwo,
-    '/exercises/iteration-structure-1': IterationStructureOne,
-    '/exercises/iteration-structure-2': IterationStructureTwo,
-    '/exercises/iteration-structure-3': IterationStructureThree,
-    '/exercises/array-1': ArrayOne,
-    '/exercises/array-2': ArrayTwo,
+    '/exercises/variables-in-java': VariablesInJavaEx,
+    '/exercises/commenting-in-java': CommentingInJavaEx,
+    '/exercises/operations-1': OperationsOneEx,
+    '/exercises/operations-2': OperationsTwoEx,
+    '/exercises/decision-structure-1': DecisionStructureOneEx,
+    '/exercises/decision-structure-2': DecisionStructureTwoEx,
+    '/exercises/iteration-structure-1': IterationStructureOneEx,
+    '/exercises/iteration-structure-2': IterationStructureTwoEx,
+    '/exercises/iteration-structure-3': IterationStructureThreeEx,
+    '/exercises/array-1': ArrayOneEx,
+    '/exercises/array-2': ArrayTwoEx,
 }} />
 
 <!-- Scope Styles -->

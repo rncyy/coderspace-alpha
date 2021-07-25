@@ -2,13 +2,13 @@
 <script>
     import Navbar from "../../components/Navbar.svelte";
     import ExerciseContainer from "../../components/ExerciseContainer.svelte";
-    let linkOne = "";
-    let linkTwo = "";
+    let linkOne = "https://gist.github.com/rncyy/f4123f914ceb74987b832b68759edf3c";
+    let linkTwo = "https://gist.github.com/rncyy/3deace4b53b459d59ed3c00fd05be430";
 </script>
 
 <!-- HTML -->
 <Navbar/>
-<ExerciseContainer lessonTitle="Arrays Two" linkOne={linkOne} linkTwo={linkTwo} prevExercise="array-1" nextExercise="array-2" isFirstExercise={false} isLastExercise={false}>
+<ExerciseContainer lessonTitle="Arrays Two" linkOne={linkOne} linkTwo={linkTwo} prevExercise="array-1" isFirstExercise={false} isLastExercise={true}>
     <!-- question -->
     <div slot="question">
         Follow the specifications given for this exercise

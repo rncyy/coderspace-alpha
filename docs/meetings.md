@@ -27,6 +27,13 @@ Deadline: July 19, 2021
 - 4PM-6PM 
 - Ayusin Documentation
 
+## Meeting July 23, 2021
+- Exercises (upload sa internet) 1 - Hazel 2 - Gemarie (txt files then folder gdrive then gist) (sunday)
+- Screenshots (Lesson - Hazel Exercises - Gemarie) (Tuesday)
+- Code (upload github) tapos copy paste yung svelte files sa isang word document (Lesson - Hazel Exercises - Gemarie Components and other Routes - rence) Wednesday deadline
+- Wednesday (ayusin docu)
+- Thursday review
+
 
 # OOP Video Recording Sessions
 
@@ -44,8 +51,10 @@ Deadline: July 19, 2021
 - Follow the naming convention Part {part number}.(mov, mp4, flv)
 - Deadline: July 21, 2021
 
-## Teach GUI (Part 2) July 21, 2021
+## Teach GUI (Part 2) July 31, 2021
 - 4PM-6PM
+- Deadline ng vid August 3
+- August 4 and 5
 
 ## Video Recording of GUI DL: July 25, 2021
 - Should be mostly in English

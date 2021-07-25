@@ -2,8 +2,8 @@
 <script>
     import Navbar from "../../components/Navbar.svelte";
     import ExerciseContainer from "../../components/ExerciseContainer.svelte";
-    let linkOne = "";
-    let linkTwo = "";
+    let linkOne = "https://gist.github.com/rncyy/fb1c9c1d71cbcce1c0a17a32ed2e323e";
+    let linkTwo = "https://gist.github.com/rncyy/403188f6c026bf53f883c7656f470390";
 </script>
 
 <!-- HTML -->

@@ -16,7 +16,7 @@
         "}",
 		
 		"// another example\n" +
-        "int j = 7;\n" +
+        "int b = 7;\n" +
         "for(int b = 1; b <= 6 ;  b++){ \n" +
         "\tSystem.out.printn(b);\n" +
         "}",
