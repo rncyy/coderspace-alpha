@@ -7,7 +7,6 @@
     import About from './routes/About.svelte';
     import ContactUs from './routes/ContactUs.svelte';
     import Lessons from './routes/Lessons.svelte';
-    import QuickTest from './routes/QuickTest.svelte';
     import Exercises from './routes/Exercises.svelte';
 
     // lessons
@@ -46,7 +45,6 @@
     '/about': About,
     '/contact-us': ContactUs,
     '/lessons': Lessons,
-    '/quicktest': QuickTest,
     '/exercises': Exercises,
     // route for lessons
     '/lessons/hello-world': HelloWorld,

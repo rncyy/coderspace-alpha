@@ -15,7 +15,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item questrial">
-                        <a href="/#/" class="nav-link active">Home</a>
+                        <a href="/#" class="nav-link active">Home</a>
                     </li>
                     <li class="nav-item dropdown questrial">
                         <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button"
@@ -25,7 +25,6 @@
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="/#/lessons">Lessons</a></li>
                             <li><a class="dropdown-item" href="/#/exercises">Exercises</a></li>
-                            <li><a class="dropdown-item" href="/#/quicktest">Take the Quick Test</a></li>
                         </ul>
                     </li>
                     <li class="nav-item questrial">
