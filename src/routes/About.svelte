@@ -114,7 +114,7 @@
                                 <div class="card text-center card-shadows card-bg">
                                     <div class="card-body">
                                         <p class="card-text">
-                                            For this project, We have used the color scheme White, Cyan, with a hint of purple which is inspired by the color pallette used for our logo and other graphics found in this website. White is used to provide a clean and sleek interface comboed with a lively cyan and purple for our accent colors. We have also used the same color scheme with the Lesson pages, Quick Test page, and the Exercises Page. This ensures that the website is not just pure white.
+                                            For this project, We have used the color scheme White, Cyan, with a hint of purple which is inspired by the color pallette used for our logo and other graphics found in this website. White is used to provide a clean and sleek interface comboed with a lively cyan and purple for our accent colors. We have also used the same color scheme with the Lesson pages. This ensures that the website is not just pure white.
                                         </p>
                                     </div>
                                 </div>

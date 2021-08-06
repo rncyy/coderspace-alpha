@@ -122,6 +122,12 @@
                 <a href="https://www.w3schools.com/java/java_arrays.asp">W3Schools - Java Arrays</a><br>
             </div>
         </div>
+        <div class="references">
+            <h2 class="questrial">Image Sources</h2>
+            <div class="questrial">
+                <a href="https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2018/02/Arrays-in-java-df.jpg">Data Flair - Java Arrays</a><br>
+            </div>
+        </div>
     </div>
     <div style="height: 3rem"></div>
 
@@ -135,5 +141,11 @@
 <style>
     .adjust-text {
         margin-left: 20px;
+    }
+    .card-shadows {
+        box-shadow: 0 0 3px #17a2b8;
+    }
+    .card-bg {
+        background-color: whitesmoke;
     }
 </style>

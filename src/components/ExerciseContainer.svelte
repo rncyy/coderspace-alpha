@@ -12,8 +12,8 @@
 
 <!-- HTML -->
 <div class="d-flex align-items-center justify-content-center">
-    <div class="vertical-center">
-        <div class="card" style="width: 50rem;">
+    <div class="vertical-center card-bg card-shadows">
+        <div class="card " style="width: 50rem;">
             <div class="card-header questrial d-inline-flex justify-content-center">
                 <span class="fnt-9">{lessonTitle}</span>
             </div>
@@ -61,5 +61,11 @@
 
     .fnt-9 {
         font-size: 20pt;
+    }
+    .card-shadows {
+        box-shadow: 0 0 3px #17a2b8;
+    }
+    .card-bg {
+        background-color: whitesmoke;
     }
 </style>

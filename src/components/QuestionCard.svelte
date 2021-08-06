@@ -10,7 +10,7 @@
 </script>
 
 <!-- HTML -->
-<div class="card">
+<div class="card card-bg card-shadows">
     <div class="card-header questrial text-center">
         {lessonTitle}
     </div>
@@ -27,5 +27,10 @@
 
 <!-- Scope Styles -->
 <style>
-
+    .card-shadows {
+        box-shadow: 0 0 3px #17a2b8;
+    }
+    .card-bg {
+        background-color: whitesmoke;
+    }
 </style>

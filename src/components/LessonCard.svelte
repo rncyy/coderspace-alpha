@@ -12,7 +12,7 @@
 
 <!-- HTML -->
 <a href="/#/lessons/{lessonLink}" class="no-dec">
-    <div class="card" style="width: {maxWidth};">
+    <div class="card card-shadows card-bg" style="width: {maxWidth};">
         <div class="logo-bg d-flex">
             <img src="assets/{imageName}.png" class="card-img-top logo-width mx-auto mt-2 mb-2" alt="...">
         </div>
@@ -40,5 +40,11 @@
     }
     .small-text {
         font-size: 15px;
+    }
+    .card-shadows {
+        box-shadow: 0 0 3px #17a2b8;
+    }
+    .card-bg {
+        background-color: whitesmoke;
     }
 </style>
